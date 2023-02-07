@@ -20,10 +20,12 @@ The solution for problem: The webpage will provide a list of all kinds of recipe
 
 4. Search for recipes;
 
-5. Users can post their own recipes to the web page;
+5. Users can bookmark recipes and view them;
 
-6. Users can modify and delete the recipes they post to the web page;
+6. Users can post their own recipes to the web page;
 
-7. Automatically recommend random recipes (this is for choosing phobias).
+7. Users can modify and delete the recipes they post to the web page;
+
+8. Automatically recommend random recipes (this is for choosing phobias).
 
 This is our temporary goal, and some improvements may be made in the future.
