@@ -42,7 +42,7 @@ This is our temporary goal, and some improvements may be made in the future.
   - React.JS
   - Node.JS
 
-- Libraries
+- Libraries:
   - Bootstrap 
   - Font Awesome
   - jQuery
