@@ -14,22 +14,22 @@ The problem to solve: Many people want to learn to cook or like to cook, but oft
 
 The solution for problem: The webpage will provide a list of all kinds of recipes with specific production methods, and can provide random recipe recommendations.
 
-## Features
+## Project Description 
 
-1. Realize user registration login and logout;
+- Realize user registration login and logout;
 
-2. Make a list of recipes;
+- Make a list of recipes;
 
-3. Categorized by recipe type (meat, vegetarian, soup, dessert, etc.);
+- Categorized by recipe type (meat, vegetarian, soup, dessert, etc.);
 
-4. Search for recipes;
+- Search for recipes;
 
-5. Users can bookmark recipes and view them;
+- Users can bookmark recipes and view them;
 
-6. Users can post their own recipes to the web page;
+- Users can post their own recipes to the web page;
 
-7. Users can modify and delete the recipes they post to the web page;
+- Users can modify and delete the recipes they post to the web page;
 
-8. Automatically recommend random recipes (this is for choosing phobias).
+- Automatically recommend random recipes (this is for choosing phobias).
 
 This is our temporary goal, and some improvements may be made in the future.
