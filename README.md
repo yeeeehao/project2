@@ -1,16 +1,20 @@
-# Project 2 Proposal
+# Recipe Website Proposal
 
-Team Members: Hao Ye, Juan Wang, Chuangjian Xia
+## Team Members
 
-Topic: Recipe selection and automatic recommendation
+- Hao Ye (6238023)
+- Juan Wang (6218207)
+- Chuangjian Xia (6328003)
 
-## Executive summary
+## Overview
+
+Our recipe site aims to provide users with an easy-to-use platform for finding and sharing recipes, and random recipes are not selected for people with phobias. The site will feature a clean and modern design, intuitive search and filter options, and a variety of user-generated recipes from a variety of categories, including meat dishes, vegetarian dishes, desserts, and more.
 
 The problem to solve: Many people want to learn to cook or like to cook, but often don't know what to cook or can't cook a certain dish.
 
 The solution for problem: The webpage will provide a list of all kinds of recipes with specific production methods, and can provide random recipe recommendations.
 
-## Goals
+## Features
 
 1. Realize user registration login and logout;
 
