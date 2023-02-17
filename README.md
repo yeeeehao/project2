@@ -1,4 +1,4 @@
-# Recipe Website Proposal
+# Culinary Corner - A Recipe Website
 
 ## Team Members
 
@@ -14,7 +14,7 @@ The problem to solve: Many people want to learn to cook or like to cook, but oft
 
 The solution for problem: The webpage will provide a list of all kinds of recipes with specific production methods, and can provide random recipe recommendations.
 
-## Project Description 
+## Features
 
 - Realize user registration login and logout;
 
@@ -33,3 +33,21 @@ The solution for problem: The webpage will provide a list of all kinds of recipe
 - Automatically recommend random recipes (this is for choosing phobias).
 
 This is our temporary goal, and some improvements may be made in the future.
+
+## Technology
+
+- Tech Stack:
+  - MERN stack:
+    - MongoDB
+    - Express.JS
+    - React.JS
+    - Node.JS
+
+- Libraries
+  - Bootstrap 
+  - Font Awesome
+  - jQuery
+
+## Conclusion
+
+Our recipe website aims to provide a comprehensive and user-friendly platform for finding and sharing recipes. We believe that with the right team and resources, we can build a successful and engaging website that will be enjoyed by users around the world. Thank you for considering our proposal.
