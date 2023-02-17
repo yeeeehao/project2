@@ -36,14 +36,13 @@ This is our temporary goal, and some improvements may be made in the future.
 
 ## Technology
 
-- Tech Stack:
-  - MERN stack:
-    - MongoDB
-    - Express.JS
-    - React.JS
-    - Node.JS
+MERN stack:
+  - MongoDB
+  - Express.JS
+  - React.JS
+  - Node.JS
 
-- Libraries
+Libraries
   - Bootstrap 
   - Font Awesome
   - jQuery
